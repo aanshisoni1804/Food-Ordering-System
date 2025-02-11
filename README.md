@@ -20,4 +20,3 @@ Future Enhancements
 - User authentication and order history.  
 - Payment gateway integration.  
 
-Made with ❤ for food lovers! 🍕🍔🍜  
