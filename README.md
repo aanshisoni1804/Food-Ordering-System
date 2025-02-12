@@ -1,5 +1,5 @@
  
-__FoodOrderingSystem__ 
+<h6>__FoodOrderingSystem__</h6> 
 
 It is a sleek and responsive food ordering website crafted with HTML, CSS, and JavaScript. It provides an intuitive and engaging user interface, making online food ordering a delightful experience.  
 
