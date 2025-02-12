@@ -1,5 +1,5 @@
  
-FoodOrderingSystem – A Stunning Food Ordering Website  
+__FoodOrderingSystem__ 
 
 It is a sleek and responsive food ordering website crafted with HTML, CSS, and JavaScript. It provides an intuitive and engaging user interface, making online food ordering a delightful experience.  
 
